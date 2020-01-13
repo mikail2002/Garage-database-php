@@ -9,3 +9,10 @@
  6.Import deze in phpmyadmin.
  7. Registreer een account.
  8.Login
+
+# Screenshots
+
+<img src="img/login.png">
+<img src="img/menu.png">
+<img src="img/menu2.png">
+<img src="img/read_auto.png">
